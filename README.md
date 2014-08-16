@@ -1,8 +1,6 @@
 ![WordCamp Salvador](WordCamp-Salvador.png "WordCamp Salvador")
 
-# WordCamp Salvador
-
-Este repositório é utilizado para compartilhar as peças e marcas utilizadas para divulgar o WordCamp Salvador.
+> Este repositório é utilizado para compartilhar as peças e marcas utilizadas para divulgar o WordCamp Salvador.
 
 ## Como contribuir
 
